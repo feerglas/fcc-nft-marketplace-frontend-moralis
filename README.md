@@ -12,3 +12,10 @@ start frp with:
 ## Moralis admin cli
 
 ```yarn global add moralis-admin-cli```
+
+# Run locally
+
+- Backend: `hh node`
+- Frontend: `yarn moralis:sync`
+- Frontend: `yarn dev`
+- Moralis: make sure that dev chain proxy is connected
